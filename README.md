@@ -7,3 +7,7 @@ The result of that calculation is the MACD line. A nine-day EMA of the MACD call
 MACD helps investors understand whether the bullish or bearish movement in the price is strengthening or weakening.
 
 Using this I checked the prices of Tesla and AFFLE(NSE)
+
+## What is DMAC?
+The Dual Moving Average Crossover trading system uses two moving averages, one short and one long. The system trades when the short moving average crosses the long moving average.
+Apple Stock Price using DMAC
